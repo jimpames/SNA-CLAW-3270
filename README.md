@@ -16,6 +16,10 @@ This is not a 3270 emulator. It is an automation substrate.
 
 
 
+<img width="1421" height="928" alt="Screenshot 2026-05-28 101458" src="https://github.com/user-attachments/assets/00a47615-4169-401c-a070-a0c65f313b9f" />
+
+
+
 intro
 
 https://www.linkedin.com/pulse/introducing-sna-claw-3270-ai-native-3270-controller-real-jim-ames-6xuie
