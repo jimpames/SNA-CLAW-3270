@@ -12,6 +12,12 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+video demo
+
+
+https://youtu.be/JYI631-Rb1A?si=KHIFC1icFitV-4w-
+
+
 ## What it does today
 
 - Connects to a remote 3270 host through a configurable gateway
