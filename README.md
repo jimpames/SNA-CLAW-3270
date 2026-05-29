@@ -12,6 +12,9 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+book:
+https://www.amazon.com/dp/B0H3CPK8ZB
+
 License:
 GPL3 for hobby users of hercules/sim390/hyperion
 
