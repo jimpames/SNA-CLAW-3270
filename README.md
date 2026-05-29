@@ -12,7 +12,7 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
-book:
+book (identical PDF here in repo):
 https://www.amazon.com/dp/B0H3CPK8ZB
 
 License:
