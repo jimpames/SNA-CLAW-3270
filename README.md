@@ -12,6 +12,17 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+License:
+GPL3 for hobby users of hercules/sim390/hyperion
+
+Commercial uses require license.
+Contact licensing: jimpames@gmail.com
+
+Report Piracy Video:
+https://youtu.be/uUTNJAnKlqA
+
+
+
 <img width="1832" height="898" alt="sna-claw-3270" src="https://github.com/user-attachments/assets/7932d598-91ba-4b4b-a01a-0d54025cc22a" />
 
 
