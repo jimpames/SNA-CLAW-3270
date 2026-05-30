@@ -12,6 +12,11 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+and you probably want my MVS Cerberus as well to control 3270 access..
+
+https://github.com/jimpames/mvs-cerberus
+
+
 book (identical PDF here in repo):
 https://www.amazon.com/dp/B0H3CPK8ZB
 
