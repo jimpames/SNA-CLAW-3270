@@ -20,6 +20,9 @@ https://github.com/jimpames/mvs-cerberus
 book (identical PDF here in repo):
 https://www.amazon.com/dp/B0H3CPK8ZB
 
+<img width="1606" height="966" alt="hardcover-book-automating-3270-workflow-w-sna-claw-3270" src="https://github.com/user-attachments/assets/6117bed7-8027-4387-a319-a7d5bcccbcc0" />
+
+
 License:
 GPL3 for hobby users of hercules/sim390/hyperion
 
