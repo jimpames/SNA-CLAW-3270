@@ -12,6 +12,9 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+DEMO CHANNEL:
+https://www.youtube.com/@sna-claw-3270
+
 deep dive:
 https://www.youtube.com/@sna-claw-3270
 
