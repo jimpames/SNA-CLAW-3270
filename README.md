@@ -12,6 +12,11 @@ installations.
 
 This is not a 3270 emulator. It is an automation substrate.
 
+<img width="1894" height="1020" alt="clones-sna-claw" src="https://github.com/user-attachments/assets/1be2d61f-ec74-42f2-92df-8f78c1d70557" />
+
+<img width="1904" height="1032" alt="clones-cerberus" src="https://github.com/user-attachments/assets/b612ea66-7bd5-4e32-b0d8-461cb85ab7fc" />
+
+
 DEMO CHANNEL:
 https://www.youtube.com/@sna-claw-3270
 
