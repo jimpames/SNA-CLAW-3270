@@ -14,7 +14,7 @@ capabilities:
 - allow operator to navigate 3270 workflow normally
 - capture their workflow into atomic workflow INI automations, automatically.
 
-Warning: HITSVILLE code not yet tested. slated for mid june testing
+Warning: HITSVILLE code not yet completed/tested. slated for mid june completion/testing
 - providing code now to show you where this is going
 - see hitsville manuals in repo for details
 
