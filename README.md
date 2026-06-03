@@ -1,5 +1,31 @@
 # SNA-CLAW-3270
 
+change log:
+3 june 2026
+
+major update to system
+
+new standalone 3270 recording studio 'hitsville'
+
+<img width="1824" height="2336" alt="hitsville-studio" src="https://github.com/user-attachments/assets/c9050b63-5896-49d0-9de0-224a9d825260" />
+
+
+capabilities:
+- allow operator to navigate 3270 workflow normally
+- capture their workflow into atomic workflow INI automations, automatically.
+
+Warning: HITSVILLE code not yet tested. slated for mid june testing
+- providing code now to show you where this is going
+- see hitsville manuals in repo for details
+
+ 
+install hitsville recording studio:
+unzip the hitsville_recorder.zip into the sna-claw-3270 directory
+
+operate histville studio:
+see the manuals in the repo
+
+  -------------------------------------------------------------------------
 **A natural-language operator for IBM 3270 mainframe systems, in pure Python.**
 
 SNA-CLAW-3270 drives a real 3270 terminal session against a real mainframe
